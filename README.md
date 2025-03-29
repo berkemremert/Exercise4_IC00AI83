@@ -1,3 +1,4 @@
+I prepared a PDF file so I strongly suggest you to check PDF file instead of the MD file.
 For the report file: https://github.com/berkemremert/Exercise4_IC00AI83/blob/4dd2b0fab7bb024962a521f5ce872f87a3bfb5e1/Exercise4_IC00AI83.pdf
 
 Task 1: IoT Home Assistants
